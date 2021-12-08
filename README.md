@@ -1,5 +1,4 @@
-# tendenciaserietemporalutiliozandodwt
-<h2>Obtenção de Tendências em Séries Temporais utilizando Transformada Wavelet</h2>
+# Obtenção de Tendências em Séries Temporais utilizando Transformada Wavelet
 <p>Neste vídeo-tutorial aprenderemos como obter a tendência de uma série temporal empregando a Transformada Wavelet Discreta. Também faremos algumas comparações com o método mais empregado nestes casos, que é a Média Móvel.</p>
 <p>Acesse o link do Youtube a seguir:</p>
 <div align="center">
